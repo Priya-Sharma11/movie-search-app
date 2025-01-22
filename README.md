@@ -50,3 +50,8 @@ npm run dev // if you are using vite
 ````
 Your app will now be running at http://localhost:3000 for react and http://localhost:5173 for vite app and will retrieve movie details from the mock API at http://localhost:5000.
    
+
+OUTPUT:
+![home page](https://github.com/user-attachments/assets/aac17061-cffc-4a5a-b5c1-c9b2df490247)
+
+![movie with id](https://github.com/user-attachments/assets/815b939b-0700-4cd1-a74f-eb0e9f56466b)
