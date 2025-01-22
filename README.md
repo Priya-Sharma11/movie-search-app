@@ -1,4 +1,4 @@
-# Movie Database App
+# Movie Search App
 
 A simple React application that retrieves movie information from a `data.json` file hosted on a local server and displays the movie details.
 
